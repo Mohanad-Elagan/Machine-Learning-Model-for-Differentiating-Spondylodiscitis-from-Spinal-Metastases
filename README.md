@@ -1,0 +1,1 @@
+This project is for the Harvard Rare Disease Hackathon to address the following problem statement in genomics: Develop a semi-quantitative framework to determine the mechanism of disease for gene-disease relationships. 
